@@ -1,0 +1,9 @@
+{
+  "name": "StockMaster",
+  "description": "Production-ready Modular Inventory Management System featuring real-time dashboard, stock tracking, and responsive design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
